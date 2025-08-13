@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'cmtsdb.cpoo0wcy2mmg.ap-south-1.rds.amazonaws.com',
+	'hostname' => 'cmtsdb.cr46q8o6wzab.ap-south-1.rds.amazonaws.com',
 	'username' => 'admin',
 	'password' => 'admin123',
 	'database' => 'college_mgmt',
